@@ -3,6 +3,6 @@
 [Reputation Management](https://github.com/madhavbpanicker/reputation-management)
 
 ### Past Projects:
-Project in Network Attacks\\
-Credit Card Fraud Detection Methods
+Project in Network Attacks\n
+Credit Card Fraud Detection Methods\n
 (DM for more details)
