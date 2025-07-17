@@ -1,4 +1,4 @@
-## Hello, I'm Madhav B Panicker, a student at IISER Bhopal in his 3rd Year, pursuing a BS in Data Science.
+## Hello, I'm Madhav B Panicker, a student at IISER Bhopal in my 4th Year, pursuing a BS in Data Science.
 -------------------------
 ### Past Projects:
 Project in Network Attacks<br />
